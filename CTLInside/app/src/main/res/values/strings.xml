@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">CTLInside</string>
+    <string name="title_activity_emp_list">EmpListActivity</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+    <string name="Name_Of_Employee">Name Of Employee<font color='fe0101'>*</font></string>
+    <string name="E_Code">E_Code<font color='fe0101'>*</font></string>
+    <string name="Project_Location">Project Location<font color='fe0101'>*</font></string>
+    <string name="Site_Details">Site Details: (With ID)<font color='fe0101'>*</font></string>
+    <string name="TA_Details">TA Details<font color='fe0101'>*</font></string>
+    <string name="Total_Amount">Total Amount<font color='fe0101'>*</font></string>
+    <string name="Bank_AC_Details">Bank AC Details</string>
+    <string name="Submitted_By">Submitted By<font color='fe0101'>*</font></string>
+    <string name="Contact_No">Contact No<font color='fe0101'>*</font></string>
+    <string name="SUBMIT">SUBMIT</string>
+    <string name="DateOfTravelling">Date of Travelling<font color='fe0101'>*</font></string>
+</resources>

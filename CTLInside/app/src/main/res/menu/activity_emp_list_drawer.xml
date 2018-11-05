@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_addemp"
+            android:icon="@drawable/emp"
+            android:title="Add Employee" />
+        <item
+            android:id="@+id/nav_leavereq"
+            android:icon="@drawable/leaverew"
+            android:title="Leave Request" />
+        <item
+            android:id="@+id/nav_complains"
+            android:icon="@drawable/complain"
+            android:title="Complains" />
+
+        <item
+            android:id="@+id/nav_messages"
+            android:icon="@drawable/messages"
+            android:title=" Drop Message" />
+
+
+        <item
+            android:id="@+id/nav_Logout"
+            android:icon="@drawable/logout"
+            android:title="Log Out" />
+    </group>
+
+
+</menu>
